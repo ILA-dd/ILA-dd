@@ -14,14 +14,6 @@ I like low-level stuff, custom clients, Linux, and open-source projects.
 
 ---
 
-## My projects
-
-- **AncientClient** — extended DDNet/Teeworlds client  
-- **ddnet/ddnet** — contributions  
-- **zapret-related** — configs and tooling  
-
----
-
 ## GitHub Stats
 
 <p align="left">
