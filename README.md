@@ -19,6 +19,7 @@ I'm a developer who likes low-level stuff, game clients, Linux and open-source p
 ---
 
 ## GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ILA-dd&show_icons=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILA-dd&layout=compact&theme=midnight-purple)
@@ -27,4 +28,4 @@ I'm a developer who likes low-level stuff, game clients, Linux and open-source p
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/660719822199586818?theme=dark&bg=0d1117&borderRadius=20px&idleMessage=afk...&showDisplayName=true)](https://discord.com/users/ТВОЙ_DISCORD_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/660719822199586818?theme=dark&bg=0d1117&borderRadius=20px&idleMessage=afk...&showDisplayName=true)](https://discord.com/users/660719822199586818)
