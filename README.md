@@ -14,10 +14,6 @@ I like low-level stuff, custom clients, Linux, and open-source projects.
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ILA-dd&show_icons=true&theme=midnight-purple&cache_seconds=1800" />
-
 ## Discord
 
 <p align="left">
