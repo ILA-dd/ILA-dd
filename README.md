@@ -22,7 +22,7 @@ I'm a developer who likes low-level stuff, game clients, Linux and open-source p
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ILA-dd&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILA-dd&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILA-dd&layout=compact&theme=midnight-purple&cache_seconds=1800)
 
 ---
 
