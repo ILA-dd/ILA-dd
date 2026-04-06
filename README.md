@@ -1,4 +1,4 @@
-# purple is the best color... :3
+# Fuck what i doing with my life
 
 🌍 Country: Russia  
 💻 I code in: C, C++, Shell  
@@ -25,3 +25,6 @@ I'm a developer who likes low-level stuff, game clients, Linux and open-source p
 
 ---
 
+## Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/660719822199586818?theme=dark&bg=0d1117&borderRadius=20px&idleMessage=afk...&showDisplayName=true)](https://discord.com/users/ТВОЙ_DISCORD_ID)
