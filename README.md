@@ -25,5 +25,3 @@ I'm a developer who likes low-level stuff, game clients, Linux and open-source p
 
 ---
 
-## Contacts
-- Site: https://ilamath.ru/
