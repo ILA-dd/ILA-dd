@@ -28,4 +28,4 @@ I'm a developer who likes low-level stuff, game clients, Linux and open-source p
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/660719822199586818?theme=dark&bg=0d1117&borderRadius=20px&idleMessage=afk...&showDisplayName=true)](https://discord.com/users/660719822199586818)
+[![Discord Presence](https://lanyard.cnrad.dev/api/660719822199586818?theme=dark&animated=false&showDisplayName=true)](https://discord.com/users/660719822199586818)
