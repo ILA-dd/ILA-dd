@@ -4,28 +4,36 @@
 💻 I code in: C, C++, Shell  
 🎮 Interested in: DDNet / Teeworlds / Linux / open source  
 🌐 Website: https://ilamath.ru/  
-💜 Trying to write better code
+💜 Trying to write better code  
 
 ---
 
 ## About me
-I'm a developer who likes low-level stuff, game clients, Linux and open-source projects.
 
-## My pinned projects
-- AncientClient — extended DDNet/Teeworlds client
-- ddnet/ddnet contributions
-- zapret-related configs and tooling
+I like low-level stuff, custom clients, Linux, and open-source projects.
+
+---
+
+## My projects
+
+- **AncientClient** — extended DDNet/Teeworlds client  
+- **ddnet/ddnet** — contributions  
+- **zapret-related** — configs and tooling  
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ILA-dd&show_icons=true&theme=midnight-purple)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILA-dd&layout=compact&theme=midnight-purple&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ILA-dd&show_icons=true&theme=midnight-purple" height="170" />
+</p>
 
 ---
 
 ## Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/660719822199586818?theme=dark&animated=false&showDisplayName=true)](https://discord.com/users/660719822199586818)
+<p align="left">
+  <a href="https://discord.com/users/660719822199586818">
+    <img src="https://lanyard.cnrad.dev/api/660719822199586818?theme=dark&animated=false&showDisplayName=true" />
+  </a>
+</p>
