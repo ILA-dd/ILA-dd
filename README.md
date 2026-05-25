@@ -41,8 +41,9 @@ I write code, break things, and occasionally figure out why.
   <img src="https://img.shields.io/badge/pacman--Syu-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AUR-yay-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
-  <img src="https://img.shields.io/badge/shell-zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <img src="https://img.shields.io/badge/shell-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/terminal-kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
 </p>
 
@@ -64,10 +65,10 @@ OS:        Arch Linux x86_64
 Kernel:    linux-zen
 Uptime:    ∞ (since I gave up on Windows)
 Packages:  too many (probably)
-Shell:     zsh
+Shell:     bash
 WM:        Hyprland
 Terminal:  kitty
-Editor:    Neovim
+Editor:    Neovim, VS Code
 Languages: C, C++, shell
 Vibes:     ricing, segfaults, coffee
 ```
