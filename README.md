@@ -40,36 +40,53 @@ I write code, break things, and occasionally figure out why.
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/pacman--Syu-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AUR-yay-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-dwm-005577?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
   <img src="https://img.shields.io/badge/shell-zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+  <img src="https://img.shields.io/badge/editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/terminal-kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
 </p>
 
-```sh
-$ neofetch
-                   -`                    ila@archlinux
-                  .o+`                   -------------
-                 `ooo/                   OS:        Arch Linux x86_64
-                `+oooo:                  Kernel:    linux-zen
-               `+oooooo:                 Uptime:    ∞ (since I gave up on Windows)
-               -+oooooo+:                Packages:  too many (probably)
-             `/:-:++oooo+:               Shell:     zsh
-            `/++++/+++++++:              WM:        dwm (patched, of course)
-           `/++++++++++++++:             Terminal:  st
-          `/+++ooooooooooooo/`           Editor:    vim
-         ./ooosssso++osssssso+`          Languages: C, C++, shell
-        .oossssso-````/ossssss+`         Vibes:     ricing, segfaults, coffee
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.       $ sudo pacman -Syu
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-     :: Synchronizing package databases...
-  `+sso+:-`                 `.-/+oso:     core             is up to date
- `++:.                           `-/+/    extra            is up to date
- .`                                 `/    multilib         is up to date
-                                          :: Starting full system upgrade...
-                                           there is nothing to do
+<p align="left">
+  <img src="https://img.shields.io/github/created-at/ILA-dd?style=for-the-badge&logo=arch-linux&logoColor=white&label=account%20uptime%20since&color=1793D1" />
+</p>
+
+<table>
+<tr>
+<td width="240" valign="middle" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="180" alt="Arch Linux" />
+</td>
+<td valign="top">
+
+```yaml
+ila@archlinux
+-------------
+OS:        Arch Linux x86_64
+Kernel:    linux-zen
+Uptime:    ∞ (since I gave up on Windows)
+Packages:  too many (probably)
+Shell:     zsh
+WM:        Hyprland
+Terminal:  kitty
+Editor:    Neovim
+Languages: C, C++, shell
+Vibes:     ricing, segfaults, coffee
 ```
 
-> **`btw I use arch`** — and a tiling WM, and `vim`, and I'll tell you about it unprompted.
+```console
+$ sudo pacman -Syu
+:: Synchronizing package databases...
+ core             is up to date
+ extra            is up to date
+ multilib         is up to date
+:: Starting full system upgrade...
+ there is nothing to do
+```
+
+</td>
+</tr>
+</table>
+
+> **`btw I use arch`** — and Hyprland, and Neovim, and I'll tell you about it unprompted.
 
 ---
 
