@@ -34,20 +34,42 @@ I write code, break things, and occasionally figure out why.
 
 ---
 
-## 📊 GitHub
+## 🐧 I use Arch btw
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=ILA-dd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=ILA-dd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/pacman--Syu-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/AUR-yay-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/WM-dwm-005577?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/shell-zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ILA-dd&theme=tokyonight&hide_border=true" />
-</p>
+```sh
+$ neofetch
+                   -`                    ila@archlinux
+                  .o+`                   -------------
+                 `ooo/                   OS:        Arch Linux x86_64
+                `+oooo:                  Kernel:    linux-zen
+               `+oooooo:                 Uptime:    ∞ (since I gave up on Windows)
+               -+oooooo+:                Packages:  too many (probably)
+             `/:-:++oooo+:               Shell:     zsh
+            `/++++/+++++++:              WM:        dwm (patched, of course)
+           `/++++++++++++++:             Terminal:  st
+          `/+++ooooooooooooo/`           Editor:    vim
+         ./ooosssso++osssssso+`          Languages: C, C++, shell
+        .oossssso-````/ossssss+`         Vibes:     ricing, segfaults, coffee
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.       $ sudo pacman -Syu
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-     :: Synchronizing package databases...
+  `+sso+:-`                 `.-/+oso:     core             is up to date
+ `++:.                           `-/+/    extra            is up to date
+ .`                                 `/    multilib         is up to date
+                                          :: Starting full system upgrade...
+                                           there is nothing to do
+```
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ILA-dd&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
-</p>
+> **`btw I use arch`** — and a tiling WM, and `vim`, and I'll tell you about it unprompted.
 
 ---
 
