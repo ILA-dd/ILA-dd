@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://ilamath.ru/"><img src="https://img.shields.io/badge/website-ilamath.ru-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/country-Russia-red?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=ila-dd&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=ILA-dd&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
@@ -37,8 +37,16 @@ I write code, break things, and occasionally figure out why.
 ## 📊 GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ila-dd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila-dd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api?username=ILA-dd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=ILA-dd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ILA-dd&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ILA-dd&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
 ---
