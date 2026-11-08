@@ -63,59 +63,6 @@ cl_motivation  0   # still ships anyway
 
 ---
 
-## 🐧 I use Arch btw
-
-<table>
-<tr>
-<td width="240" valign="middle" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="160" alt="Arch Linux" />
-</td>
-<td valign="top">
-
-```yaml
-ila@archlinux
--------------
-OS:        Arch Linux x86_64
-Kernel:    linux-zen
-Uptime:    ∞ (since I gave up on Windows)
-Packages:  too many (probably)
-Shell:     bash
-WM:        Hyprland
-Terminal:  kitty
-Editor:    Neovim, VS Code
-Languages: C, C++, shell
-Vibes:     hooking, ricing, segfaults, coffee
-```
-
-```console
-$ sudo pacman -Syu
-:: Synchronizing package databases...
- core             is up to date
- extra            is up to date
- multilib         is up to date
-:: Starting full system upgrade...
- there is nothing to do
-```
-
-</td>
-</tr>
-</table>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/pacman--Syu-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AUR-yay-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WM-Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
-  <img src="https://img.shields.io/badge/editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/shell-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/terminal-kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
-</p>
-
-> **`btw I use arch`** — and Hyprland, and Neovim, and I'll tell you about it unprompted.
-
----
-
 ## 💬 Discord
 
 <p align="left">
