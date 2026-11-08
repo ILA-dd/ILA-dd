@@ -41,7 +41,7 @@
   <rect class="ice" x="544" y="208" width="356" height="32" fill="url(#freeze)"/>
 
   <text class="t" x="40" y="100" font-size="52" font-weight="700" fill="#e6edf3">ILA-dd</text>
-  <text class="t" x="42" y="134" font-size="17" fill="#a78bfa">ddnet client hacker · low-level enjoyer</text>
+  <text class="t" x="42" y="134" font-size="17" fill="#a78bfa">low-level enjoyer · arch btw</text>
   <text class="t" x="42" y="170" font-size="15" fill="#7d8590">$ ./DDNet --connect hook-swing-segfault<tspan class="cur" fill="#e6edf3">█</tspan></text>
 
   <!-- the chain swings around the hook point; the tee stays upright like in-game -->

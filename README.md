@@ -30,7 +30,7 @@ I write code, break things, and occasionally figure out why.
 ```console
 ila@archlinux ~ $ cat ~/.config/ddnet/settings_ila.cfg
 player_name    "ILA"
-role           "ddnet client hacker / low-level enjoyer"
+role           "low-level enjoyer"
 location       "Russia"
 languages      "C, C++, Shell, a bit of Python & Rust"
 hobby          "breaking things, then figuring out why"
@@ -43,7 +43,7 @@ cl_motivation  0   # still ships anyway
 
 | Project | What it is |
 |---|---|
-| 🟣 **[BestClient](https://github.com/ILA-dd/BestClient)** | DDNet client — *«Best Client for Best Players»*. Pilot bot, laser unfreeze, custom menus |
+| 🟣 **[BestClient](https://github.com/ILA-dd/BestClient)** | DDNet client — *«Best Client for Best Players»* |
 | 🐭 **[MosseratClient](https://github.com/ILA-dd/MosseratClient)** | DDNet client fork with demo editing and Windows Vulkan builds |
 | 🐱 **[MeowClient](https://github.com/ILA-dd/MeowClient-ByILA)** | My own DDNet client, written in C |
 | 📡 **[llupat_bot](https://github.com/ILA-dd/llupat_bot)** | Tracker of DDNet players |
@@ -115,7 +115,6 @@ $ sudo pacman -Syu
   <img src="https://img.shields.io/badge/shell-bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/terminal-kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" />
-  <img src="https://img.shields.io/github/created-at/ILA-dd?style=for-the-badge&logo=arch-linux&logoColor=white&label=uptime%20since&color=1793D1" />
 </p>
 
 > **`btw I use arch`** — and Hyprland, and Neovim, and I'll tell you about it unprompted.
