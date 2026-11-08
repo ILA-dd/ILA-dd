@@ -1,11 +1,10 @@
 <h1 align="center">Fuck what i doing with my life</h1>
 
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="ILA-dd — a tee swinging on a hook over freeze tiles" />
+  <img src="assets/tee.svg" width="100%" alt="ILA-dd — a tee swinging on a hook over freeze tiles" />
 </p>
 
 <p align="center">
-  <a href="https://ilamath.ru/"><img src="https://img.shields.io/badge/website-ilamath.ru-8A2BE2?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/country-Russia-red?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=ILA-dd&style=for-the-badge&color=blueviolet" />
 </p>
@@ -24,7 +23,6 @@ I write code, break things, and occasionally figure out why.
 - 🌍 Based in **Russia**
 - 💻 Daily drivers: **C**, **C++**, **Shell**
 - 🎮 Into **DDNet** / **Teeworlds** / **Linux** / **open source**
-- 🌐 Website: **[ilamath.ru](https://ilamath.ru/)**
 - 💜 Trying to write better code (slowly)
 
 ```console
@@ -32,7 +30,7 @@ ila@archlinux ~ $ cat ~/.config/ddnet/settings_ila.cfg
 player_name    "ILA"
 role           "low-level enjoyer"
 location       "Russia"
-languages      "C, C++, Shell, a bit of Python & Rust"
+languages      "C, C++, Shell, a bit of Python"
 hobby          "breaking things, then figuring out why"
 cl_motivation  0   # still ships anyway
 ```
@@ -45,11 +43,9 @@ cl_motivation  0   # still ships anyway
 |---|---|
 | 🟣 **[BestClient](https://github.com/ILA-dd/BestClient)** | DDNet client — *«Best Client for Best Players»* |
 | 🐭 **[MosseratClient](https://github.com/ILA-dd/MosseratClient)** | DDNet client fork with demo editing and Windows Vulkan builds |
-| 🐱 **[MeowClient](https://github.com/ILA-dd/MeowClient-ByILA)** | My own DDNet client, written in C |
 | 📡 **[llupat_bot](https://github.com/ILA-dd/llupat_bot)** | Tracker of DDNet players |
 | 📷 **[hyprland-dual-camera](https://github.com/ILA-dd/hyprland-dual-camera)** | Two cameras on Hyprland, in C++ |
 | 🐧 **[arch-setup](https://github.com/ILA-dd/arch-setup)** | My Arch install & rice in one script |
-| 🤖 **[JarVis](https://github.com/ILA-dd/JarVis)** | Personal assistant in Rust |
 
 ---
 
@@ -60,7 +56,6 @@ cl_motivation  0   # still ships anyway
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/DDNet-tee_approved-a78bfa?style=for-the-badge" />
