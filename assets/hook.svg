@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
+  <defs>
+    <!-- 32px tiles; x/y pin each pattern to its own row so tiles sit on the grid -->
+    <pattern id="ceil" x="0" y="0" width="64" height="32" patternUnits="userSpaceOnUse">
+      <rect width="32" height="32" fill="#6e4a2b"/>
+      <rect x="31" width="1" height="32" fill="#5f3f24"/>
+      <ellipse cx="10" cy="11" rx="4" ry="3" fill="#553820"/>
+      <ellipse cx="9" cy="10" rx="2" ry="1.2" fill="#8a5f38"/>
+      <ellipse cx="24" cy="17" rx="3" ry="2.4" fill="#553820"/>
+      <ellipse cx="23.2" cy="16.2" rx="1.4" ry=".9" fill="#8a5f38"/>
+      <circle cx="17" cy="5" r="1.3" fill="#553820"/>
+      <path d="M0 32V26Q4 29 8 26Q12 29 16 26Q20 29 24 26Q28 29 32 26V32Z" fill="#432b17"/>
+      <g transform="translate(32 0)">
+      <rect width="32" height="32" fill="#6e4a2b"/>
+      <rect x="31" width="1" height="32" fill="#5f3f24"/>
+      <path d="M0 32V26Q4 29 8 26Q12 29 16 26Q20 29 24 26Q28 29 32 26V32Z" fill="#432b17"/>
+      <ellipse cx="7" cy="18" rx="3" ry="2.2" fill="#553820"/>
+      <ellipse cx="6.3" cy="17.3" rx="1.3" ry=".8" fill="#8a5f38"/>
+      <ellipse cx="22" cy="8" rx="4.5" ry="3" fill="#553820"/>
+      <ellipse cx="21" cy="7" rx="2.2" ry="1.2" fill="#8a5f38"/>
+      <circle cx="27" cy="20" r="1.2" fill="#553820"/>
+      </g>
+    </pattern>
+    <pattern id="floor" x="0" y="208" width="64" height="32" patternUnits="userSpaceOnUse">
+      <rect width="32" height="32" fill="#7a5230"/>
+      <rect x="31" width="1" height="32" fill="#6a4628"/>
+      <ellipse cx="9" cy="21" rx="4" ry="3" fill="#5e3d22"/>
+      <ellipse cx="8" cy="20" rx="2" ry="1.2" fill="#93663d"/>
+      <ellipse cx="24" cy="27" rx="3" ry="2.4" fill="#5e3d22"/>
+      <ellipse cx="23.2" cy="26.2" rx="1.4" ry=".9" fill="#93663d"/>
+      <circle cx="21" cy="15" r="1.3" fill="#5e3d22"/>
+      <path d="M0 0H32V9Q28 12 24 9Q20 12 16 9Q12 12 8 9Q4 12 0 9Z" fill="#3e8a2e"/>
+      <path d="M0 0H32V7Q28 10 24 7Q20 10 16 7Q12 10 8 7Q4 10 0 7Z" fill="#5cb043"/>
+      <rect width="32" height="2" fill="#86d863"/>
+      <g transform="translate(32 0)">
+      <rect width="32" height="32" fill="#7a5230"/>
+      <rect x="31" width="1" height="32" fill="#6a4628"/>
+      <path d="M0 0H32V9Q28 12 24 9Q20 12 16 9Q12 12 8 9Q4 12 0 9Z" fill="#3e8a2e"/>
+      <path d="M0 0H32V7Q28 10 24 7Q20 10 16 7Q12 10 8 7Q4 10 0 7Z" fill="#5cb043"/>
+      <rect width="32" height="2" fill="#86d863"/>
+      <ellipse cx="22" cy="20" rx="4.5" ry="3.2" fill="#5e3d22"/>
+      <ellipse cx="21" cy="19" rx="2.2" ry="1.3" fill="#93663d"/>
+      <ellipse cx="7" cy="27" rx="2.6" ry="2" fill="#5e3d22"/>
+      <ellipse cx="6.4" cy="26.4" rx="1.2" ry=".8" fill="#93663d"/>
+      <circle cx="10" cy="16" r="1.1" fill="#5e3d22"/>
+      </g>
+    </pattern>
+    <pattern id="freeze" x="0" y="208" width="64" height="32" patternUnits="userSpaceOnUse">
+      <rect width="32" height="32" fill="#2a4f7a" fill-opacity=".6"/>
+      <path d="M5 23L13 15M17 30L29 18" stroke="#cdeeff" stroke-opacity=".45" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M24 6v6M21 9h6" stroke="#e6f7ff" stroke-opacity=".7" stroke-width="1.2" stroke-linecap="round"/>
+      <rect width="32" height="2" fill="#a8e2ff" fill-opacity=".6"/>
+      <g transform="translate(32 0)">
+      <rect width="32" height="32" fill="#2a4f7a" fill-opacity=".6"/>
+      <rect width="32" height="2" fill="#a8e2ff" fill-opacity=".6"/>
+      <path d="M3 30L19 14M22 26L28 20" stroke="#cdeeff" stroke-opacity=".45" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M9 8v4M7 10h4" stroke="#e6f7ff" stroke-opacity=".6" stroke-width="1.2" stroke-linecap="round"/>
+      </g>
+    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#18203a"/>
+    </linearGradient>
+    <clipPath id="bodyclip"><circle cx="0" cy="-4" r="19"/></clipPath>
+    <style>
+      .t { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+      .cur { animation: cur 1s steps(1) infinite; }
+      @keyframes cur { 50% { opacity: 0; } }
+      .ice { animation: shimmer 3s ease-in-out infinite alternate; }
+      @keyframes shimmer { from { opacity: .7; } to { opacity: 1; } }
+      .tw { animation: tw 2.4s ease-in-out infinite alternate; }
+      .tw:nth-of-type(2n) { animation-delay: -1.2s; }
+      @keyframes tw { from { opacity: .15; } to { opacity: .6; } }
+    </style>
+  </defs>
+
+  <rect width="900" height="240" rx="12" fill="url(#bg)"/>
+
+  <!-- background layer: stars and far hills -->
+  <g fill="#c9d1d9">
+    <circle class="tw" cx="470" cy="58" r="1.2"/>
+    <circle class="tw" cx="540" cy="92" r="1"/>
+    <circle class="tw" cx="830" cy="64" r="1.3"/>
+    <circle class="tw" cx="790" cy="120" r="1"/>
+    <circle class="tw" cx="420" cy="118" r="1"/>
+    <circle class="tw" cx="860" cy="150" r="1.1"/>
+  </g>
+  <path d="M0 208V186Q90 160 190 182T380 176T580 172T760 160T900 176V208Z" fill="#1b2340"/>
+  <path d="M0 208V196Q120 182 260 196T520 190T760 186T900 194V208Z" fill="#202a4a"/>
+
+  <!-- foreground tiles -->
+  <rect width="900" height="32" fill="url(#ceil)"/>
+  <rect y="208" width="544" height="32" fill="url(#floor)"/>
+  <rect class="ice" x="544" y="208" width="356" height="32" fill="url(#freeze)"/>
+  <rect x="544" y="208" width="2" height="32" fill="#4a301b"/>
+
+  <text class="t" x="40" y="100" font-size="52" font-weight="700" fill="#e6edf3">ILA-dd</text>
+  <text class="t" x="42" y="134" font-size="17" fill="#a78bfa">low-level enjoyer · arch btw</text>
+  <text class="t" x="42" y="170" font-size="15" fill="#7d8590">$ ./DDNet --connect hook-swing-segfault<tspan class="cur" fill="#e6edf3">█</tspan></text>
+
+  <!-- the chain swings around the hook point; the tee stays upright like in-game -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="-38 690 32; 38 690 32; -38 690 32" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5.2s" repeatCount="indefinite"/>
+    <line x1="690" y1="32" x2="690" y2="160" stroke="#2b2b2b" stroke-width="6" stroke-linecap="round" stroke-dasharray="7 3"/>
+    <line x1="690" y1="32" x2="690" y2="160" stroke="#b8b8b8" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 3"/>
+    <path d="M682 40 L690 30 L698 40" fill="none" stroke="#2b2b2b" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M682 40 L690 30 L698 40" fill="none" stroke="#d0d0d0" stroke-width="2.5" stroke-linejoin="round"/>
+
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="38 690 160; -38 690 160; 38 690 160" keyTimes="0;.5;1" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1" dur="5.2s" repeatCount="indefinite"/>
+      <!-- tee, default skin colours, 0.6 renderer proportions (BaseSize 64, scaled) -->
+      <g transform="translate(690 160) scale(1.6)">
+        <!-- outlines: back foot, body, front foot -->
+        <ellipse cx="-7" cy="10" rx="13.6" ry="7.6" fill="#000"/>
+        <circle cx="0" cy="-4" r="20.6" fill="#000"/>
+        <ellipse cx="7" cy="10" rx="13.6" ry="7.6" fill="#000"/>
+        <!-- back foot -->
+        <ellipse cx="-7" cy="10" rx="12" ry="6" fill="#a67e33"/>
+        <!-- body with the bottom-right shade -->
+        <g clip-path="url(#bodyclip)">
+          <circle cx="0" cy="-4" r="19" fill="#ab8954"/>
+          <circle cx="-2.4" cy="-6.6" r="18.6" fill="#c3a267"/>
+        </g>
+        <!-- eyes look the way the tee flies -->
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="-8 0;-8 0;8 0;8 0;-8 0" keyTimes="0;.47;.53;.97;1" dur="5.2s" repeatCount="indefinite"/>
+          <ellipse cx="-4.2" cy="-7.2" rx="2.7" ry="5.2" fill="#000">
+            <animate attributeName="ry" values="5.2;5.2;1;5.2" keyTimes="0;.9;.95;1" dur="3.7s" repeatCount="indefinite"/>
+          </ellipse>
+          <ellipse cx="4.2" cy="-7.2" rx="2.7" ry="5.2" fill="#000">
+            <animate attributeName="ry" values="5.2;5.2;1;5.2" keyTimes="0;.9;.95;1" dur="3.7s" repeatCount="indefinite"/>
+          </ellipse>
+        </g>
+        <!-- front foot -->
+        <ellipse cx="7" cy="10" rx="12" ry="6" fill="#a67e33"/>
+      </g>
+    </g>
+  </g>
+</svg>

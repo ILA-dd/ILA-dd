@@ -1,7 +1,7 @@
 <h1 align="center">Fuck what i doing with my life</h1>
 
 <p align="center">
-  <img src="assets/tee.svg" width="100%" alt="ILA-dd — a tee swinging on a hook over freeze tiles" />
+  <img src="assets/hook.svg" width="100%" alt="ILA-dd — a tee swinging on a hook over freeze tiles" />
 </p>
 
 <p align="center">
